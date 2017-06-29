@@ -1,0 +1,24 @@
+﻿  stdafx.cpp
+  KMEANS_PLAYERS.cpp
+c:\users\hyunwoo\downloads\opencv-3.2.0\build\install\include\opencv2\core\persistence.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\hyunwoo\downloads\opencv-3.2.0\build\install\include\opencv2\core\utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\hyunwoo\downloads\opencv-3.2.0\build\install\include\opencv2\core\utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\hyunwoo\downloads\opencv-3.2.0\build\install\include\opencv2\imgproc.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\hyunwoo\downloads\opencv-3.2.0\build\install\include\opencv2\imgproc.hpp(606): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\hyunwoo\downloads\opencv-3.2.0\build\install\include\opencv2\flann\dist.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\hyunwoo\downloads\opencv-3.2.0\build\install\include\opencv2\stitching\detail\motion_estimators.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\hyunwoo\downloads\opencv-3.2.0\build\install\include\opencv2\video\tracking.hpp(540): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\hyunwoo\downloads\project_multimedia\project_multimedia\kmeans_players\kmeans_players.cpp(78): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hyunwoo\downloads\project_multimedia\project_multimedia\kmeans_players\kmeans_players.cpp(91): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hyunwoo\downloads\project_multimedia\project_multimedia\kmeans_players\kmeans_players.cpp(104): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hyunwoo\downloads\project_multimedia\project_multimedia\kmeans_players\kmeans_players.cpp(118): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hyunwoo\downloads\project_multimedia\project_multimedia\kmeans_players\kmeans_players.cpp(167): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hyunwoo\downloads\project_multimedia\project_multimedia\kmeans_players\kmeans_players.cpp(168): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hyunwoo\downloads\project_multimedia\project_multimedia\kmeans_players\kmeans_players.cpp(183): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hyunwoo\downloads\project_multimedia\project_multimedia\kmeans_players\kmeans_players.cpp(184): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hyunwoo\downloads\project_multimedia\project_multimedia\kmeans_players\kmeans_players.cpp(199): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hyunwoo\downloads\project_multimedia\project_multimedia\kmeans_players\kmeans_players.cpp(200): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hyunwoo\downloads\project_multimedia\project_multimedia\kmeans_players\kmeans_players.cpp(215): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hyunwoo\downloads\project_multimedia\project_multimedia\kmeans_players\kmeans_players.cpp(216): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  KMEANS_PLAYERS.vcxproj -> C:\Users\HYUNWOO\Downloads\Project_Multimedia\Project_Multimedia\x64\Debug\KMEANS_PLAYERS.exe
+  KMEANS_PLAYERS.vcxproj -> C:\Users\HYUNWOO\Downloads\Project_Multimedia\Project_Multimedia\x64\Debug\KMEANS_PLAYERS.pdb (Full PDB)
